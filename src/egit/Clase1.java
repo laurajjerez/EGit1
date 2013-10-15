@@ -6,4 +6,5 @@ public class Clase1 {
 	public void p1(){}
 	public void p2(){}
 	public void dv(){}
+	public void dv2(){}
 }
