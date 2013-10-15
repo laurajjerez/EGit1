@@ -7,4 +7,7 @@ public class Clase1 {
 	public void p2(){}
 	public void dv(){}
 	public void dv2(){}
+	public void r(){}
+	public void r1(){}
+	public void r2(){}
 }
