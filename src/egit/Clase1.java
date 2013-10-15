@@ -12,4 +12,5 @@ public class Clase1 {
 	public void r2(){}
 	public void r3(){}
 	public void r4(){}
+	public void r5(){}
 }
